@@ -4,5 +4,5 @@ let VIDEO_FILE_NAME = "MJPG file name"; //MJPG file name
 
 let ADDR_iframe1 = "URL1"; //Remote control
 let height_iframe1 = "70%"; 
-let ADDR_iframe2 = "URL1"; //Dashboard webpage
+let ADDR_iframe2 = "URL2"; //Dashboard webpage
 let height_iframe2 = "57%";
